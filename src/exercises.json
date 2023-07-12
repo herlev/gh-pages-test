@@ -1,0 +1,68 @@
+{
+  "push": {
+    "compound": [
+      "Flat barbell bench press",
+      "Incline barbell bench press",
+      "Flat dumbell press",
+      "Incline dumbell press",
+      "Decline dumbell press",
+      "Overhead barbell press",
+      "Overhead dumbell press",
+      "Cable flyes",
+      "Low to high cable flyes",
+      "Incline chest press machine",
+      "Shoulder press machine",
+      "Chest fly machine",
+      "Dips"
+    ],
+    "accessory": [
+      "Triceps push downs",
+      "Push ups",
+      "Shoulder dumbell lateral raises",
+      "Overhead cable tricep extensions",
+      "Skull crushers",
+      "Single arm cable tricep pushdown"
+    ]
+  },
+  "pull": {
+    "compound": [
+      "Pull ups",
+      "Chin ups",
+      "Barbell rows",
+      "Cable lat pulldown",
+      "Seated cable pull",
+      "Single arm cable pulldowns",
+      "Single arm dumbell rows",
+      "T-bar rows",
+      "Lat pulldown machine",
+      "Plate loaded high row",
+      "Cable pull over"
+    ],
+    "accessory": [
+      "Face pulls",
+      "Dumbell shrugs",
+      "Back fly machine",
+      "Biceps dumbell curls",
+      "Biceps dumbell hammer curls",
+      "Biceps ez-bar curls",
+      "Single arm biceps cable curls",
+      "Single arm biceps hammer cable curls",
+      "Preacher curls"
+    ]
+  },
+  "legs": {
+    "compound": [
+      "Dead lift",
+      "Barbell back-squat",
+      "Dumbell split squat",
+      "Leg press",
+      "Hack squat",
+      "Goblet squat"
+    ],
+    "accessory": [
+      "Leg extensions",
+      "Leg curls",
+      "Calf raises"
+    ]
+  }
+}
